@@ -1,0 +1,18 @@
+{
+  "name": "node-boot",
+  "version": "0.1.0",
+  "description": "My first node app",
+  "main": "app.js",
+  "scripts": {
+    "base4": "node app --base=4"
+  },
+  "author": "Ing N Tovar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}
